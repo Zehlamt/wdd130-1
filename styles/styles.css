@@ -1,3 +1,36 @@
-body {
+h1 {
     text-align: center;
+}
+footer, body {
+    background-color: pink;
+    color: white;
+    padding: 10px;
+}
+main {
+    font-size: 27px;
+}
+footer p {
+    font-size: 30px;
+    margin: 30px auto;
+}
+title:hover {
+    background-color: black;
+    color: pink;
+}
+img { 
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+}
+p {
+    width: 80%;
+    font-size: 50px;
+}
+
+a {
+    font-size: 1.5em;
 }
