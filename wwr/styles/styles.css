@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Neuton:ital@1&display=swap');
 .logo {
     width: 90px;
 }
@@ -61,10 +62,12 @@ main section {
 
 body {
     background-color: #F9EDD5;
+    font-family: "Lora", "Roboto", "sans-serif";
 }
 
 header {
     background-color: #FCA26E;
+    font-family: "neuton", "arial", "times new roman";
 }
 
 .home-title {
